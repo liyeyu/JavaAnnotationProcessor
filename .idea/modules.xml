@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaAnnotationProcessor.iml" filepath="$PROJECT_DIR$/JavaAnnotationProcessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewfinder/viewfinder.iml" filepath="$PROJECT_DIR$/viewfinder/viewfinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewfinder-annotation/viewfinder-annotation.iml" filepath="$PROJECT_DIR$/viewfinder-annotation/viewfinder-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewfinder-compiler/viewfinder-compiler.iml" filepath="$PROJECT_DIR$/viewfinder-compiler/viewfinder-compiler.iml" />
+    </modules>
+  </component>
+</project>
